@@ -10,4 +10,3 @@ def persistence(n):
         cont += 1
     return cont
     
-persistence(39)
