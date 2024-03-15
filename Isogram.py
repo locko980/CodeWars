@@ -6,5 +6,3 @@ def is_isogram(string):
             if letter == string[j]:
                 return False
     return True
-
-print(is_isogram("Pedro"))
