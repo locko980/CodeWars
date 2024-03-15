@@ -10,7 +10,3 @@ def collinearity(x1, y1, x2, y2):
     
     else: 
         return False
-
-
-collinearity(0,0,-588, -577)
-collinearity(0,0, -300, -187)
